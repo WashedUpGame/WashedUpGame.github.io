@@ -10,8 +10,8 @@
 }
 
 html {
-  box-sizing: border-box;
-  -ms-overflow-style: scrollbar;
+    box-sizing: content-box;
+    -ms-overflow-style: scrollbar;
 }
 
 *,

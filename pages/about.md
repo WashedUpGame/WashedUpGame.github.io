@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+After graduating from a professional development course at Code Clan I developed a passion for building software. I really enjoy the problem solving nature of programming, locating issues in code and discovering a solution. 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+I have really enjoyed expanding my skill set over the past few years, from working as a consultant on different technologies, and currently working as a full stack developer in application support on a single project. 
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+I really enjoy the creativity development affords, the very idea that I have the skill set to create a game seemed too exciting not to take advantage of! So I have decided to create this dev diary to document my progress, stumbling blocks and learning experiences.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+
 

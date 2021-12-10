@@ -12,11 +12,3 @@ footermenu:
 
 - title: Home
   url: ""
-
-- title: Privacy Policy
-  url: "privacy-policy/"
-
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
